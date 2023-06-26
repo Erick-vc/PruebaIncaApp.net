@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CRUD_PRUEBA_INCAPP.props" />
+</Project>
